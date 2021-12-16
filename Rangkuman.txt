@@ -1,7 +1,7 @@
 SSH
 Cara menginstal SSH
 
-Instalasi</h3>
+Instalasi
 $ apt-get update -y
 $ apt-get upgrade -y
 $ apt-get install openssh-server
