@@ -1,5 +1,5 @@
 # SSH
-Cara install SSH
+Cara menginstal SSH
 
 <h3>Instalasi</h3>
 <p>$ apt-get update -y</p>
