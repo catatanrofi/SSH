@@ -1,4 +1,2 @@
 $ nano /etc/ssh/sshd_config
 
-• Hilangkan tanda pagar [#] pada port 22
-• Kemudian tekan tombol ctrl+x lalu tekan y lalu Enter
