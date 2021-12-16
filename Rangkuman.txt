@@ -1,0 +1,16 @@
+SSH
+Cara menginstal SSH
+
+Instalasi</h3>
+$ apt-get update -y
+$ apt-get upgrade -y
+$ apt-get install openssh-server
+
+Konfigurasi port SSH
+$ nano /etc/ssh/sshd_config
+• Hilangkan tanda pagar [#] pada port 22
+• Kemudian tekan tombol ctrl+x lalu tekan y lalu Enter
+
+Restart SSH
+$ systemctl restart ssh
+
